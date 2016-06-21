@@ -1,2 +1,2 @@
 cold and dry, but acceptable location for base. 
-coordinates 102244, temperature -270, pressure 85 kPa
+coordinates 102244, temperature -271, pressure 85 kPa
